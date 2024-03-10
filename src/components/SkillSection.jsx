@@ -12,6 +12,8 @@ const SkillSection = () => {
                 <SkillCard title={"NodeJS"} value={80} />
                 <SkillCard title={"ExpressJs"} value={85} />
                 <SkillCard title={"MongoDB"} value={85} />
+                <SkillCard title={"C & C++"} value={80} />
+                <SkillCard title={"Java"} value={75} />
                 <SkillCard title={"MySQL"} value={75} />
 
             </div>

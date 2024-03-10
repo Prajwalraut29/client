@@ -16,10 +16,7 @@ const ProjectSection = () => {
             <div ref={scrollref} className='scroll-hide flex gap-5 overflow-x-scroll lg:p-3 '>
 
                 <ProjectCard />
-                <ProjectCard />
-                <ProjectCard />
-                <ProjectCard />
-                <ProjectCard />
+
             </div>
             <div className='flex items-center  gap-5 text-white justify-center'>
                 <HiArrowSmLeft onClick={hScrollRight} className=' text-xl lg:text-2xl cursor-pointer text-yellow-500 lg:block' />

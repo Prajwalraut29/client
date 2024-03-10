@@ -12,10 +12,9 @@ const Contact = () => {
                     <a className='font-extrabold text-transparent  bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600' href="tel:+917620384967">+91 7620384967</a>
                 </div>
                 <div className='flex gap-5 items-center text-3xl lg:text-5xl text-white py-5 '>
-                    <AiFillGithub />
-                    <AiFillInstagram />
-                    <AiFillLinkedin />
-                    <AiFillTwitterCircle />
+                    <a href="https://github.com/Prajwalraut29"> <AiFillGithub /> </a>
+                    <a href='https://www.linkedin.com/in/prajwal-raut29/'><AiFillLinkedin /> </a>
+                    <a href='https://twitter.com/prajwal29Raut'><AiFillTwitterCircle /> </a>
                 </div>
             </div>
 
@@ -29,7 +28,7 @@ const Contact = () => {
                 </form>
             </div>
 
-        </div>
+        </div >
     )
 }
 
