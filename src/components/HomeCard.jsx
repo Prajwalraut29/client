@@ -1,4 +1,5 @@
 import React from 'react'
+
 const HomeCard = () => {
     return (
         <div className='flex text-white  flex-col lg:flex-row gap-10 lg:gap-0  justify-between items-center mb-20 lg:mb-36'>
@@ -9,7 +10,7 @@ const HomeCard = () => {
             </div>
 
             <div data-aos="fade-up-left" className='text-gray-300 text-xl lg:text-2xl'>
-                <img className=' rounded-full w-[200px] h-[200px] lg:w-[450px] lg:h-[450px] mx-auto  object-cover ' src='https://i.postimg.cc/ZRk90Cf1/photo-2024-03-10-19-45-01.jpg' alt="" />
+                <img className=' rounded-full w-[200px] h-[200px] lg:w-[450px] lg:h-[450px] mx-auto  object-cover ' src='https://i.postimg.cc/gJgV7Jrx/photo-2024-05-10-12-52-53.jpg' alt="" />
             </div>
 
         </div>
